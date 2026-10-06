@@ -1,6 +1,6 @@
-package modelos.decorators;
+package models.decorators;
 
-import modelos.Components.KiaCarComponent;
+import models.Components.KiaCarComponent;
 
 public class AccesoryRin13 extends AccesoryDecorator {
 

@@ -1,4 +1,4 @@
-package modelos.Components;
+package models.Components;
 
 public class KiaGTLineAT extends KiaCarComponent {
 

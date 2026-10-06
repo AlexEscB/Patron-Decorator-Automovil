@@ -1,4 +1,4 @@
-package modelos.Components;
+package models.Components;
 
 public abstract class KiaCarComponent {
     private String name;

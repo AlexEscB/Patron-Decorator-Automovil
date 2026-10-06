@@ -1,9 +1,9 @@
-package modelos.Components;
+package models.Components;
 
-public class KiaZenithMT extends KiaCarComponent {
+public class KiaZenithAT extends KiaCarComponent {
 
-    public KiaZenithMT() {
-        super("Kia Zenith MT", 20000.0);
+    public KiaZenithAT() {
+        super("Kia Zenith AT", 22000.0);
     }
 
     @Override
