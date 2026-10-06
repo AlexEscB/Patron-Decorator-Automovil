@@ -14,7 +14,7 @@ public class AccesoryDecorator extends KiaCarComponent {
     @Override
     public void display() {
         carComponent.display();
-        System.out.println("Accesory: " + getName() + ", Price: " + getPrice());
+        System.out.println("Accesory: " + getName() + ", Price: " + getPrice() + " COP");
     }
 
     @Override
